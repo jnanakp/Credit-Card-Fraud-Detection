@@ -118,10 +118,4 @@ We evaluated model cutoffs using three financial curves:
 | Test      | 78.13%       | Minimal overfitting         |
 | OOT       | 87.54%       | Excellent generalization    |
 
----
 
-📚 **Appendix Highlights**
-
-- Visualizations of transaction amount distributions, fraud by state, and day-of-week patterns  
-- Feature importance plots and saturation curves for feature selection  
-- Summary tables of engineered features (2,600+ variables created)

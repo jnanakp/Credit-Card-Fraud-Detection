@@ -1,8 +1,10 @@
 # Credit Card Fraud Detection 
 
-📊 **Project Overview**
+## 📊 Project Overview
 
-This project applies advanced machine learning techniques to detect fraudulent activity in credit card transactions. Using a real-world dataset of 97,852 transactions from 2010, we built a high-performing fraud detection system capable of identifying high-risk activity with strong generalization and business impact. The goal was to maximize fraud savings while minimizing false positive costs through robust modeling and financial evaluation.
+This project applies advanced machine learning techniques to detect fraudulent activity in credit card transactions. Built as part of the Fraud Analytics (DSO 562) course at the University of Southern California, it uses a real-world dataset of 97,852 transactions from 2010 to develop a high-performing fraud detection system.
+
+The goal was to maximize fraud savings while minimizing false positive costs through robust feature engineering, out-of-time validation, and financial evaluation. The model was designed to identify high-risk transactions with strong generalization and measurable business impact.
 
 ---
 
